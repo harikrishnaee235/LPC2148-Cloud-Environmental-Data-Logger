@@ -19,18 +19,24 @@ This project is an IoT-based Environmental Data Logger developed using the **LPC
 
 ---
 
-## Components Used
+## Hardware Components Used
 
 * LPC2148 ARM7 Microcontroller
-* ESP-01 (ESP8266 Wi-Fi Module)
+* ESP-01 Wi-Fi Module
 * LM35 Temperature Sensor
 * MQ-2 Gas Sensor
 * AT24C256 EEPROM (I2C)
 * 16x2 LCD Display
-* Buzzer
+* Buzzer/LED
 * Power Supply (3.3V / 5V)
+* Keypad(4x4)
 
----
+## Software Used
+
+* Keil µVision
+* Flash Magic
+* Embedded C Programming
+* ThingSpeak Cloud Platform
 
 ## Working Principle
 
@@ -64,15 +70,6 @@ This project is an IoT-based Environmental Data Logger developed using the **LPC
   * Send Data to ThingSpeak
 * Store Set Point in EEPROM
 * Repeat Monitoring
-
----
-
-## Software Used
-
-* Keil µVision
-* Flash Magic
-* Embedded C Programming
-* ThingSpeak Cloud Platform
 
 ---
 
