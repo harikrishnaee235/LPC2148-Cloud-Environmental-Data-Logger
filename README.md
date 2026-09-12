@@ -252,8 +252,11 @@ Example data uploaded:
 
 * Field 1 – Temperature
 * Field 2 – Gas Sensor Status
-
+* Field 3 - Temperature set point 
 ---
+## ThingSpeak Cloud Output
+
+![ThingSpeak Output](thingspeak-output.jpeg)
 
 ## Applications
 
