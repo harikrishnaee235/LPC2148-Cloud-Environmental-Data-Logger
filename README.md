@@ -255,6 +255,9 @@ Example data uploaded:
 
 ## Hardware connections
 
+![ThingSpeak Output](Screenshot%202026-09-12%20094856.png)
+
+
 ## Applications
 
 * Environmental Monitoring
