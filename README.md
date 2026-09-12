@@ -180,25 +180,6 @@ The complete system works continuously in a loop.
 7. Upload sensor data to ThingSpeak through ESP-01.
 8. Store updated set point in EEPROM whenever modified.
 9. Repeat the monitoring process continuously.
-
-## ThingSpeak Cloud Output
-
-![ThingSpeak Output](Screenshot%202026-09-12%20092549.png)
-
-
-### Project Output
-
-The system provides the following outputs:
-
-* Real-time temperature monitoring.
-* Gas leakage detection and alert generation.
-* Date and time display using RTC.
-* Permanent temperature set point storage in EEPROM.
-* Wi-Fi-based cloud monitoring using ESP-01.
-* ThingSpeak graphical visualization.
-* Excel/CSV report generation for recorded environmental data.
-
-
 ---
 
 ## Project Flow
@@ -243,7 +224,19 @@ Final_Majorp/
 └── README.md
 ```
 
----
+
+## Project Output
+
+The system provides the following outputs:
+
+* Real-time temperature monitoring.
+* Gas leakage detection and alert generation.
+* Date and time display using RTC.
+* Permanent temperature set point storage in EEPROM.
+* Wi-Fi-based cloud monitoring using ESP-01.
+* ThingSpeak graphical visualization.
+* Excel/CSV report generation for recorded environmental data.
+  
 
 ## ThingSpeak Integration
 
@@ -253,11 +246,14 @@ Example data uploaded:
 
 * Field 1 – Temperature
 * Field 2 – Gas Sensor Status
-* Field 3 - Temperature set point 
----
+* Field 3 - Temperature set point
+
+  
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Cloud Output](Screenshot%202026-09-12%20092549.png))
+![ThingSpeak Output](Screenshot%202026-09-12%20092549.png)
+
+## Hardware connections
 
 ## Applications
 
