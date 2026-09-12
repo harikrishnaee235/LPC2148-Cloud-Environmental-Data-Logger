@@ -183,7 +183,7 @@ The complete system works continuously in a loop.
 
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Output](thingspeak-output.jpeg)
+![ThingSpeak Output]
 
 
 ### Project Output
@@ -257,7 +257,7 @@ Example data uploaded:
 ---
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Cloud Output](thingspeak-output.jpeg)
+![ThingSpeak Cloud Output](Screenshot%202026-09-12%20092549.png))
 
 ## Applications
 
