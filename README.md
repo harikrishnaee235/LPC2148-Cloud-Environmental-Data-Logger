@@ -183,7 +183,7 @@ The complete system works continuously in a loop.
 
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Output]Screenshot%202026-09-12%20092549.png)
+![ThingSpeak Output](Screenshot%202026-09-12%20092549.png)
 
 
 ### Project Output
