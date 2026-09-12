@@ -40,9 +40,8 @@ This project is an IoT-based Environmental Data Logger developed using the **LPC
 * Embedded C Programming
 * ThingSpeak Cloud Platform
 
-## Working Principle
 
-## ⚙️ Working of the Project
+##  Working of the Project
 
 ### Step 1: System Initialization
 
@@ -78,7 +77,7 @@ If the gas concentration exceeds the threshold, the system identifies it as a ga
 
 ### Step 4: Real-Time Clock (RTC) Operation
 
-The DS1307 RTC module maintains the current date and time.
+The  RTC module maintains the current date and time.
 
 * RTC communicates with LPC2148 through the I2C protocol.
 * Every sensor reading is associated with the current time and date.
@@ -155,6 +154,7 @@ After establishing the internet connection:
 
 * Temperature value is uploaded to **Field 1**.
 * Gas sensor value is uploaded to **Field 2**.
+* Temperature set point  value is uploaded to **Field 3**.
 * Data is stored in the ThingSpeak cloud with date and time.
 
 The cloud dashboard displays sensor readings in graphical form for continuous monitoring.
