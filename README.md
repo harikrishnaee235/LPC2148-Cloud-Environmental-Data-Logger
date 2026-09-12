@@ -138,6 +138,7 @@ The communication sequence includes:
 AT       ->   Checks whether the ESP-01 module is responding.
 
 AT+CWMODE=1  ->  Sets ESP-01 to Station Mode.
+
 AT+CWJAP="SSID","PASSWORD" ->  Connects ESP-01 to the Wi-Fi network.
 
 AT+CIPSTART="TCP","api.thingspeak.com",80 -> Establishes a TCP connection with the ThingSpeak server.
