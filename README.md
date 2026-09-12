@@ -17,7 +17,9 @@ This project is an IoT-based Environmental Data Logger developed using the **LPC
 * EEPROM (AT24C256) stores the temperature set point.
 * Cloud data can be exported to Excel for reports and analysis.
 
----
+## 📊 Project Block Diagram
+
+![Project Block Diagram](Circuit%20connection.jpeg)
 
 ## Hardware Components Used
 
