@@ -19,7 +19,7 @@ This project is an IoT-based Environmental Data Logger developed using the **LPC
 
 ## 📊 Project Block Diagram
 
-![Project Block Diagram](Circuit%20connection.jpeg)
+![Project Block Diagram](Screenshot%202026-09-12%20070011.png)
 
 ## Hardware Components Used
 
