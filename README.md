@@ -253,7 +253,7 @@ Example data uploaded:
 
 ![ThingSpeak Output](Screenshot%202026-09-12%20092549.png)
 
-## Hardware connections
+## Hardware connections and Output
 
 ![ThingSpeak Output](Screenshot%202026-09-12%20094856.png)
 
