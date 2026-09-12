@@ -281,6 +281,6 @@ Example data uploaded:
 
 ## Author
 
-**Harikrishna**
+**M.Harikrishna**
 
 Embedded Systems Project using LPC2148 ARM7 Microcontroller.
