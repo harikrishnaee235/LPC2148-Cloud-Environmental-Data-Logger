@@ -181,6 +181,10 @@ The complete system works continuously in a loop.
 8. Store updated set point in EEPROM whenever modified.
 9. Repeat the monitoring process continuously.
 
+## ThingSpeak Cloud Output
+
+![ThingSpeak Output](thingspeak-output.jpeg)
+
 ### Project Output
 
 The system provides the following outputs:
