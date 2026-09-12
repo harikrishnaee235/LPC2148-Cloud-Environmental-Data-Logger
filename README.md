@@ -183,6 +183,7 @@ The complete system works continuously in a loop.
 
 ## ThingSpeak Cloud Output
 
+![ThingSpeak Output](thingspeak-output.jpeg)
 
 
 ### Project Output
