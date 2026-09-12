@@ -257,7 +257,7 @@ Example data uploaded:
 ---
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Output](thingspeak-output.jpeg)
+![ThingSpeak Cloud Output](thingspeak-output.jpeg)
 
 ## Applications
 
