@@ -183,7 +183,7 @@ The complete system works continuously in a loop.
 
 ## ThingSpeak Cloud Output
 
-![ThingSpeak Output](image-url-generated-by-github)
+![ThingSpeak Output](https://1drv.ms/i/c/8b44e1fb49b1c4fd/IQDqkb3rdhZrRLUJvclOVlbyART-QPA6MoMQj3AcBskn2l8?e=zY7LFs)
 
 ### Project Output
 
